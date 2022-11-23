@@ -3,6 +3,7 @@ please add me on wechat 13197419163, don't send me to you with those intermediar
 or it will be ruined, they charge more money,
 
 
+``` java
 The following has no effect, to confuse them
 public boolean insert(E object, SortedArrayList<E> list){
 		list.add(object);
@@ -18,3 +19,5 @@ public boolean insert(E object, SortedArrayList<E> list){
         return true;
 	}
 }
+
+```
